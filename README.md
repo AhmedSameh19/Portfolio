@@ -6,9 +6,6 @@ Certainly! Below is a sample README file for a simple HTML+CSS webpage that is r
 
 This is a simple responsive webpage built using HTML and CSS. It is designed to be mobile-friendly and adapts its layout based on the screen size of the device viewing it.
 
-## Preview
-
-![Preview](preview.png)
 
 ## Features
 
